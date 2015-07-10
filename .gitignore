@@ -1,0 +1,4 @@
+1- Dowunload Genymotion.
+2- make the .apk file.
+3- run (adb install -r platforms/android/build/outputs/apk/android-debug.apk).
+4- This file will install their application in genymotion drive.
