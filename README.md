@@ -1,4 +1,4 @@
-# Emaulate with Genymotion
+# Emulate with Genymotion
 
 1. Dowunload Genymotion - http://ionicframework.com/docs/guide/publishing.html
 
